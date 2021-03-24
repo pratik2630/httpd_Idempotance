@@ -29,7 +29,7 @@
    handlers:
            - name: restart httpd
              service:
-                  name: "httpd"
-                 state: restarted
+               name: "httpd"
+               state: restarted
            
          
